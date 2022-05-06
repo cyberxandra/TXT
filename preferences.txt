@@ -1,0 +1,5 @@
+favourite Movie: Alien,
+favourite Series: Succession,
+favourite Food: sushi rolls,
+favourite Season: spring,
+country to visit: Germany
